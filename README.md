@@ -39,7 +39,7 @@ Já a linha com a menor receita foi:
 
 ## 🧾 Dataset
 - [Sales Data Sample](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
-- O dataset é fictício, usado para fins de aprendizado.
+- O dataset é fictício e foi usado apenas para fins de aprendizado.
 
 ## 🚀 Como Executar
 Esse projeto foi feito em um **Jupyter Notebook**, então para rodar ele na sua máquina, basta seguir os passos abaixo:
@@ -48,5 +48,5 @@ Esse projeto foi feito em um **Jupyter Notebook**, então para rodar ele na sua 
    ```bash
    pip install pandas plotly
    ```
-3. Abra e execute o notebook `analise_vendas_produto.ipynb`.
+3. Abra e execute o notebook `AnaliseVendasProduto.ipynb`.
 
